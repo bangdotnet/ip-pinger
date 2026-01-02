@@ -1,6 +1,6 @@
-# Ping IT, Open Source IP Pinger.
+# Ping IT
 
-Completely Legal IP Pinger, used to test Connections.
+Used to test Connections.
 
 - Python 3.6+ is required.
 - No extra packages needed.
