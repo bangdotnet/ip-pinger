@@ -41,8 +41,6 @@ def gradient_banner():
 "░██                       ░███████                  ",
 "",
 "",
-"Developed by - Bang",
-"",
                                              
                                                                                                                                        
     ]
