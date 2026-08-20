@@ -1,6 +1,6 @@
-# Ping IT
+# I named it "Ping IT"
 
-Used to test Connections.
+used to test connections
 
-- Python 3.6+ is required.
-- No extra packages needed.
+- python 3.6+ is required.
+- mo extra packages needed.
