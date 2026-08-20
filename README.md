@@ -2,5 +2,5 @@
 
 used to test connections
 
-- python 3.6+ is required.
-- no extra packages needed.
+- python 3.6+ is required
+- no extra packages needed
