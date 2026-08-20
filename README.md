@@ -3,4 +3,4 @@
 used to test connections
 
 - python 3.6+ is required.
-- mo extra packages needed.
+- no extra packages needed.
