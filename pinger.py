@@ -105,7 +105,7 @@ def main():
             return
             
         port = input("port: ")
-        if not port:
+        if not port: 
             return
             
         port = int(port)
